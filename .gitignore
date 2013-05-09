@@ -1,6 +1,17 @@
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.log
+*.sublime-workspace
 *.class
-
-# Package Files #
 *.jar
 *.war
 *.ear
+.classpath
+.settings/
+.loadpath
+.project
+/target
+
